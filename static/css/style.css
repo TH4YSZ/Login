@@ -1,0 +1,23 @@
+body{
+    align-items: center;
+    justify-content: center;
+    
+}
+
+nav{
+    background-color: rgb(151, 151, 255);
+}
+
+form{
+    width: 600px;
+    background-color: "#f1f1f1";
+    margin-top: 60px;
+    padding: 20px;
+    border-bottom: 5px solid rgb(151, 151, 255);
+    border-radius: 16px;
+    box-shadow: 0px 5px 5px rgba(97, 97, 97, 0.2);
+}
+
+a{
+    color: "#f1f1f1";
+}
